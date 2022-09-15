@@ -1,6 +1,6 @@
 # countries_task
-create vvirtual environment 
-run the virtual environment
+Create virtual environment 
+Run the virtual environment
   on Windows:.\#environment_name\Scripts\Activate.ps1
   on Mac:source venv/bin/activate
 
